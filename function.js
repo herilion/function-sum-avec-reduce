@@ -14,4 +14,5 @@ const myFunction = (...m) => {
     console.log([m])
     console.log(sum);
 };
-myFunction(43, 56, 45)
+myFunction(43, 56, 45);
+myFunction(2, 3, 4, 6, 7, 8, 9);
