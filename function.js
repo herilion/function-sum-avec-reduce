@@ -9,6 +9,7 @@ const mult = function (...m) {
     console.log(result);
 }
 mult(2, 45);
+mult(2, 45, 23, 1, 0);
 
 //function addition avec reduce
 const myFunction = (...m) => {
